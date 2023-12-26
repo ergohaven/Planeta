@@ -3,6 +3,7 @@
 ![Planeta](images/1.jpg)
 
 ### This repo contains all files related to this keyboard
+PCB and schematic can be found [here](https://oshwlab.com/yuriiq/planeta_copy)
 
 ## License 
 
