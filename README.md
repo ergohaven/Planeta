@@ -46,3 +46,6 @@ The files in this repository are licensed under the Creative Commons Attribution
 ### Firmware
 - [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
 - [QMK source code](https://github.com/ergohaven/vial-qmk)
+
+## Availability
+The complete keyboard (not a DIY kit) is available for purchase at [eh.industries](https://eh.industries/)
